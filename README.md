@@ -6,6 +6,6 @@ Material:
 • R code: This folder contains two parts of R codes (initial & refined R codes).  
 • Drive Link: https://drive.google.com/drive/folders/1gLq9k9VL-pBdvNdo6Y29abZS-LY3qAYm
 1) R code: This folder contains two parts of R codes (initial & refined R codes).
-2) Dataset: This dataset contains two folders (initial and refined datasets).
+2) Dataset: This dataset contains two folders (raw & refined datasets).
 3) INFO399 Final Report.pdf & docx: INFO399 Final Report Spring 23.
 4) Food-Inspections-csv.openrefine.tar.gz: OpenRefine project archive to file.
