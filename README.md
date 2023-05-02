@@ -8,3 +8,4 @@ Material:
 1) R code: This folder contains two parts of R codes (initial & refined R codes).
 2) Dataset: This dataset contains two folders (initial and refined datasets).
 3) INFO399 Final Report.pdf & docx: INFO399 Final Report Spring 23.
+4) Food-Inspections-csv.openrefine.tar.gz: OpenRefine project archive to file
